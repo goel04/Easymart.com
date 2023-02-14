@@ -312,6 +312,6 @@
                   </div>
             </div>
         </section>
-        <p><b>Created by Lakshay Goel,Nirmal Bhati ,Vansh kohli </b></p>
+        <p><b>Created by Lakshay Goel </b></p>
       
 </body></html>
